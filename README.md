@@ -9,16 +9,6 @@
  </br>
  </br>
 
-Bonjour, je suis Igor Melo. Motivé par les défis et la résolution des problèmes, je me suis lancé dans le monde de la science. J’ai obtenu un doctorat en Physique Statistique à l’université de Brasília. Pendant mon parcours académique j’ai acquis des compétences sur la modélisation numérique de problèmes complexes et une grosse passion pour les algorithmes. Les données m’ont toujours intéressée, car on peut expliquer et apprendre beaucoup des choses avec, juste en regardant la beauté qui se cache derrière. Au-delà des données, les modèles d’Intelligence Artificielle me fascinent énormément, car c’est un mariage parfait avec les donnés. Aujourd’hui je suis en reconversion, je cherche d’apprendre beaucoup avec les données et les modèles, comme j’ai très envie de partager toutes les choses qui sont à ma portée. Proposer des nouvelles solutions et apprendre avec les solutions déjà existantes. Je suis ouvert aux échanges. Si tu as quelque chose à demander, n’hésite pas. Si tu as quelque conseil à me donner, je vais te remercier. Allez, ensemble nous sommes plus forts.
- </br>
- </br>
-
-- 🔭 Je travaille actuellement sur mes projets personnels
-- 🌱 En ce moment j'apprends beaucoup des choses (Machine Learning, Deep Learning, Computer Vision, Analyse de données...)
-- 👯 Je cherche de collaborer sur tous les sujets, avec n'importe qui
-- 💬 Pose-moi des questions, je suis ouvert...
-- 📫 Pour me contacter : envoie-moi un petit e-mail, je te réponds dans le plus bref délai
-- ⚡ Je ressemble à Mr. Bean, Lucas Silveira (Fresno) et Ian Curtis (Joy Division). J'adore jouer de la guitare, on peut faire aussi de la musique. Au-delà de tout ça, je suis aussi poète.
 
 </br>
 </br>
